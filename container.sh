@@ -2,7 +2,7 @@
 
 if [ -z "$1" ]
   then
-    echo "Usage: container.sh CONTAINER_ID"
+    echo "Usage: container.sh CONTAINER_NAME"
     exit
 fi
 
