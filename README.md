@@ -4,7 +4,8 @@ A collection of my personal docker shell scripts.
 
 ## Installation
 
-Download or clone the project and place the scripts one folder above your project root.
+- Download the zipball or clone the project
+- Make sure that the scirpts are one folder above your project root.
 
 ## Usage
 
